@@ -1,8 +1,8 @@
 # 👨‍💻 Siva Krishna Teja
 
-🎯 Cybersecurity Analyst | Penetration Tester | DevOps Enthusiast  
-📍 India | 📧 polisettysivateja@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/) | 🌐 [GitHub](https://github.com/Shivatej157)
+🎯 Cybersecurity Analyst | Penetration Tester | open for opportunuties 
+📍 India | 📧 krishnatejasiva2@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/) | 🌐 [GitHub](https://github.com/SivaKrishnaTeja482)
 
 ---
 
