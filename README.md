@@ -1,52 +1,82 @@
-# 👨‍💻 Siva Krishna Teja
+# 👋 Hello there! I'm Siva Krishna Teja Polisetty
 
-🎯 Cybersecurity Analyst | Penetration Tester | open for opportunuties 
-📍 India | 📧 krishnatejasiva2@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/) | 🌐 [GitHub](https://github.com/SivaKrishnaTeja482)
+🎓 Recent B.Tech Graduate in CSIT from KL University | 🛡️ Certified Ethical Hacker (CEH) | 🌐 Cybersecurity Enthusiast | 👨‍💻 Open Source Contributor | 💬 Social Impact Advocate
 
 ---
 
 ## 🚀 About Me
-A passionate cybersecurity professional and DevOps enthusiast with hands-on knowledge in ethical hacking, penetration testing, and securing modern infrastructures. Currently preparing for the International Cyber Security Professional exam and exploring real-world projects in OWASP-ZAP and phishing simulations.
+
+I’m a detail-oriented and driven Cybersecurity Analyst with a strong foundation in ethical hacking, vulnerability assessment, and secure development. I hold a Certified Ethical Hacker (CEH) certification and am preparing for the AI Cybersecurity Associate exam to expand into AI-powered threat detection and security frameworks.
+
+I've worked on hands-on projects like:
+- 🕵️ OWASP-ZAP: Performed end-to-end vulnerability scans identifying XSS, SQL Injection, insecure cookies, and more.
+- 🎣 Lockphish: Simulated real-world phishing scenarios to raise awareness about social engineering tactics.
+
+Beyond academics, I’ve actively contributed to social service initiatives like:
+- 🍚 Rice Bowl Challenge (Food distribution drive)
+- 🛣️ Tech Speak: Braking for Change (Road safety innovation campaign)
+- 🧑‍🏫 Student Advisor at KL CEA for mentoring and organizing community-focused tech and outreach events.
 
 ---
 
-## 🛠️ Skills
+## 🧠 Skills & Tools
 
-- 🔐 Cybersecurity: Vulnerability Scanning, Penetration Testing, OSINT, SIEM
-- 🛠️ Tools: OWASP ZAP, Metasploit, Nmap, Burp Suite, Wireshark
-- 💻 Programming: Python, Bash, YAML
-- ☁️ DevOps: Git, Docker, Linux, CI/CD basics
-- 📊 Reporting: Technical documentation, CVE analysis
-
----
-
-## 📂 Projects
-
-### 🔎 OWASP-ZAP Pentest Toolkit
-Automated scanner to find web app vulnerabilities using OWASP ZAP.
-➡️ [View Repo](https://github.com/Shivatej157/owasp-zap-project)
-
-### 🎣 Lockphish Simulation
-Phishing tool to demonstrate social engineering and credential harvesting.
-➡️ [View Repo](https://github.com/Shivatej157/lockphish-simulation)
-
-### 🛡️ CyberSena Platform (WIP)
-India's first unified cybersecurity platform bridging government & corporate threat response.
-➡️ [Project Info](https://github.com/Shivatej157/cybersena-platform)
+- Cybersecurity & Ethical Hacking: CEH methodologies, OWASP Top 10, ZAP, Lockphish, Phishing Simulation  
+- Programming & Systems: Python, Bash, Linux, Windows  
+- Cloud & Infra: Oracle Cloud Infrastructure (OCI Certified Architect Associate)  
+- Tools & Frameworks: Metasploit (beginner), Burp Suite (learning), Wireshark, Git, HTML/CSS  
+- Soft Skills: Leadership, Public Speaking, Team Collaboration, Community Engagement
 
 ---
 
-## 📚 Certifications
+## 🏆 Certifications
 
-- ✅ CEH (Certified Ethical Hacker)
-- 🧪 Preparing: International Cyber Security Professional (ICSP)
-- 📜 DevOps Fundamentals
+- ✅ Certified Ethical Hacker (CEH) – EC-Council (Feb 2024 – Feb 2027)  
+- 🧠 Oracle Cloud Infrastructure 2021 Certified Architect Associate – Oracle  
+- 🤖 AICTE Internship Certificate – AICTE  
+- 🎓 Cybersecurity Orientation – Cybrary  
+- 🧠 Network Security Completion – RineX.AI
 
 ---
 
-## 🤝 Let's Collaborate
+## 📁 Projects
 
-I'm open to internships, freelance cybersecurity gigs, and remote opportunities.  
-📬 Drop me a message on [LinkedIn](https://www.linkedin.com/in/polisetty-siva-krishna-teja-b99477220/) or [email](mailto:polisettysivateja@gmail.com)
+### 🔍 OWASP-ZAP Vulnerability Assessment
+> Conducted end-to-end web app vulnerability testing focusing on XSS, SQLi, insecure headers, and authentication flaws using the OWASP Top 10 framework.
+
+### 🎯 Lockphish – Phishing Simulation Project
+> Developed phishing pages, observed behavioral patterns, and understood human vulnerabilities in a secure sandbox setup.
+
+---
+
+## 🌱 Currently Learning
+
+- AI in Cybersecurity (ML-Based Threat Detection)
+- Penetration Testing with Kali Linux
+- Network Forensics & Incident Response
+- Network secuirty 
+- Cyber security professional 
+
+---
+
+## 👥 Volunteering & Social Engagement
+
+- 📌 Student Advisor, Center for Extension Activities – KL University (2022–2025)  
+- 🍚 Rice Bowl Challenge Volunteer – Community Food Drive Organizer  
+- 🛣️ Tech Speak: Braking for Change – Lead Organizer  
+- 🙌 KL NSS Volunteer – Contributed to community development & national service
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 LinkedIn – Siva Krishna Teja
+- 📧 Email: polisettysivakrishna2@gmail.com
+- 💼 Portfolio (Coming Soon...)
+
+---
+
+🔐 *"Cybersecurity is not just a career—it's a responsibility."*  
+🚀 Let’s secure the digital future together!
+
 
